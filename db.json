@@ -1,0 +1,365 @@
+ {
+ "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+],
+ "subCategories": [
+    {
+      "name": "All Jobs",
+      "href": "#"
+    },
+    {
+      "name": "Remote",
+      "href": "#"
+    },
+    {
+      "name": "On-Site",
+      "href": "#"
+    },
+    {
+      "name": "Full Time",
+      "href": "#"
+    },
+    {
+      "name": "Part Time",
+      "href": "#"
+    }
+ ],
+ "location": [
+    {
+      "value": "Any",
+      "label": "Any Where",
+      "checked": false
+    },
+    {
+      "value": "Dhaka",
+      "label": "Dhaka, Bangladesh",
+      "checked": false
+    },
+    {
+      "value": "London",
+      "label": "London, United Kingdom",
+      "checked": false
+    },
+    {
+      "value": "Tokyo",
+      "label": "Tokyo, Japan",
+      "checked": true
+    },
+    {
+      "value": "NewYork",
+      "label": "New York, USA",
+      "checked": false
+    },
+    {
+      "value": "Sydney",
+      "label": "Sydney, Australia",
+      "checked": false
+    },
+    {
+      "value": "Paris",
+      "label": "Paris, France",
+      "checked": false
+    }
+ ],
+ "salary": [
+    {
+      "value": 10000,
+      "label": "10000",
+      "checked": false
+    },
+    {
+      "value": "Twenty Thousand",
+      "label": "50000",
+      "checked": false
+    },
+    {
+      "value": "Thirty Thousand",
+      "label": "55000",
+      "checked": true
+    },
+    {
+      "value": "Forty Thousand",
+      "label": "60000",
+      "checked": false
+    },
+    {
+      "value": "Fifty Thousand",
+      "label": "70000",
+      "checked": false
+    }
+ ],
+  "Work experience": [
+    {
+      "value": "Any experience",
+      "label": "Any experience",
+      "checked": false
+    },
+    {
+      "value": "Internship",
+      "label": "Internship",
+      "checked": false
+    },
+    {
+      "value": "Work remotely",
+      "label": "Work remotely",
+      "checked": false
+    }
+  ],
+ "jobs": [
+    {
+      "id": "d871bdea-04c6-477f-8c61-1a66e22a9cb8",
+      "title": "information systems manager",
+      "description": "Rerum quis et nulla quisquam et ipsam voluptatem ipsa. Dicta et nihil quaerat accusamus esse perferendis. Occaecati expedita deleniti blanditiis sequi quaerat omnis. Laborum quisquam perferendis cumque eaque voluptates accusantium provident.",
+      "company": "Wehner LLC",
+      "location": "Dapitan, Lithuania",
+      "salary_from": 72642,
+      "salary_to": 110086,
+      "employment_type": "Remote",
+      "application_deadline": "Sat, 05/22/2004",
+      "Workexperience": "Internship",
+      "contact": "333-610-620",
+      "job_category": "UI/UX Designer",
+      "is_remote_work": 0,
+      "number_of_opening": 10,
+      "created_at": "Sun, 10/15/2023",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    {
+      "id": "b428e74c-8ef4-4f4e-9ed2-830d702b2e7c",
+      "title": "software engineer",
+      "description": "Voluptatem quos voluptatem minima aut exercitationem. Veritatis maxime culpa ea harum recusandae. Ea qui inventore rerum nisi eos.",
+      "company": "Smith and Sons",
+      "location": "Dhaka, Bangladesh",
+      "salary_from": 60000,
+      "salary_to": 90000,
+      "employment_type": "Full Time",
+      "application_deadline": "Mon, 08/15/2022",
+      "Work experience": "Internship",
+      "contact": "555-123-456",
+      "job_category": "Software Engineer",
+      "is_remote_work": 1,
+      "number_of_opening": 5,
+      "created_at": "Wed, 03/20/2023",
+      "updated_at": "Wed, 03/20/2023"
+    },
+    {
+      "id": "c5f0a738-98c2-4a94-8770-55e7cc30a1af",
+      "title": "data analyst",
+      "description": "Doloremque dolor qui repudiandae mollitia ea. Soluta quis voluptatem voluptatibus quaerat ut consectetur nisi dolores. Impedit recusandae sit rerum est officiis. Libero voluptatem ullam facilis est eligendi.",
+      "company": "Anderson Solutions",
+      "location": "Dhaka, Bangladesh",
+      "salary_from": 50000,
+      "salary_to": 75000,
+      "employment_type": "Part Time",
+      "application_deadline": "Thu, 12/10/2023",
+      "Workexperience": "Work remotely",
+      "contact": "444-987-654",
+      "job_category": "Data Analyst",
+      "is_remote_work": 1,
+      "number_of_opening": 3,
+      "created_at": "Sat, 02/18/2023",
+      "updated_at": "Sat, 02/18/2023"
+    },
+    {
+      "id": "f329e5c0-8db4-4dbb-aa2f-e89f7780e2f9",
+      "title": "marketing specialist",
+      "description": "Voluptatem accusamus nobis ut mollitia facere. Est libero et rerum dolorem at nihil. Accusantium voluptas id magnam dolore odio.",
+      "company": "Miller Marketing",
+      "location": "London, United Kingdom",
+      "salary_from": 55000,
+      "salary_to": 80000,
+      "employment_type": "On-Site",
+      "application_deadline": "Fri, 09/30/2023",
+      "Workexperience": "Work remotely",
+      "contact": "222-333-444",
+      "job_category": "Marketing",
+      "is_remote_work": 1,
+      "number_of_opening": 8,
+      "created_at": "Mon, 07/05/2023",
+      "updated_at": "Mon, 07/05/2023",
+      "userid": "9429"
+    },
+    {
+      "id": "d871bdea-04c6-477f-8c61-1a66e22a9cb8",
+      "title": "information systems manager",
+      "description": "Rerum quis et nulla quisquam et ipsam voluptatem ipsa. Dicta et nihil quaerat accusamus esse perferendis. Occaecati expedita deleniti blanditiis sequi quaerat omnis. Laborum quisquam perferendis cumque eaque voluptates accusantium provident.",
+      "company": "Wehner LLC",
+      "location": "London, United Kingdom",
+      "salary_from": 72642,
+      "salary_to": 110086,
+      "employment_type": "Remote",
+      "application_deadline": "Sat, 05/22/2004",
+      "Workexperience": "Internship",
+      "contact": "333-610-620",
+      "job_category": "UI/UX Designer",
+      "is_remote_work": 0,
+      "number_of_opening": 10,
+      "created_at": "Sun, 10/15/2023",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    {
+      "id": "b428e74c-8ef4-4f4e-9ed2-830d702b2e7c",
+      "title": "software engineer",
+      "description": "Voluptatem quos voluptatem minima aut exercitationem. Veritatis maxime culpa ea harum recusandae. Ea qui inventore rerum nisi eos.",
+      "company": "Smith and Sons",
+      "location": "Tokyo, Japan",
+      "salary_from": 60000,
+      "salary_to": 90000,
+      "employment_type": "Full Time",
+      "application_deadline": "Mon, 08/15/2022",
+      "Workexperience": "Internship",
+      "contact": "555-123-456",
+      "job_category": "Software Engineer",
+      "is_remote_work": 1,
+      "number_of_opening": 5,
+      "created_at": "Wed, 03/20/2023",
+      "updated_at": "Wed, 03/20/2023"
+    },
+    {
+      "id": "c5f0a738-98c2-4a94-8770-55e7cc30a1af",
+      "title": "data analyst",
+      "description": "Doloremque dolor qui repudiandae mollitia ea. Soluta quis voluptatem voluptatibus quaerat ut consectetur nisi dolores. Impedit recusandae sit rerum est officiis. Libero voluptatem ullam facilis est eligendi.",
+      "company": "Anderson Solutions",
+      "location": "Sydney, Australia",
+      "salary_from": 50000,
+      "salary_to": 75000,
+      "employment_type": "Part Time",
+      "application_deadline": "Thu, 12/10/2023",
+      "Workexperience": "Work remotely",
+      "contact": "444-987-654",
+      "job_category": "Data Analyst",
+      "is_remote_work": 1,
+      "number_of_opening": 3,
+      "created_at": "Sat, 02/18/2023",
+      "updated_at": "Sat, 02/18/2023",
+      "userid": "9429"
+    },
+    {
+      "id": "f329e5c0-8db4-4dbb-aa2f-e89f7780e2f9",
+      "title": "marketing specialist",
+      "description": "Voluptatem accusamus nobis ut mollitia facere. Est libero et rerum dolorem at nihil. Accusantium voluptas id magnam dolore odio.",
+      "company": "Miller Marketing",
+      "location": "New York, USA",
+      "salary_from": 55000,
+      "salary_to": 80000,
+      "employment_type": "On-Site",
+      "application_deadline": "Fri, 09/30/2023",
+      "Workexperience": "Work remotely",
+      "contact": "222-333-444",
+      "job_category": "Marketing",
+      "is_remote_work": 1,
+      "number_of_opening": 8,
+      "created_at": "Mon, 07/05/2023",
+      "updated_at": "Mon, 07/05/2023",
+      "userid": "9429"
+    },
+    {
+      "id": "12345678-abcd-efgh-ijkl-987654321000",
+      "title": "front-end developer",
+      "description": "Experienced front-end developer with a passion for creating responsive and user-friendly web applications.",
+      "company": "Tech Solutions Inc.",
+      "location": "Paris, France",
+      "salary_from": 70000,
+      "salary_to": 100000,
+      "employment_type": "Remote",
+      "application_deadline": "Tue, 11/15/2023",
+      "Workexperience": "3+ Years",
+      "contact": "777-888-999",
+      "job_category": "Front-end Developer",
+      "is_remote_work": 1,
+      "number_of_opening": 5,
+      "created_at": "Tue, 01/10/2023",
+      "updated_at": "Tue, 01/10/2023"
+    },
+    {
+      "id": "abcdefgh-ijkl-mnop-qrst-987654321001",
+      "title": "system administrator",
+      "description": "Skilled system administrator responsible for managing and maintaining IT infrastructure.",
+      "company": "IT Solutions Ltd.",
+      "location": "Paris, France",
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "employment_type": "Full Time",
+      "application_deadline": "Wed, 06/20/2023",
+      "Workexperience": "5+ Years",
+      "contact": "111-222-333",
+      "job_category": "System Administrator",
+      "is_remote_work": 0,
+      "number_of_opening": 3,
+      "created_at": "Fri, 04/28/2023",
+      "updated_at": "Fri, 04/28/2023"
+    },
+    {
+      "id": "qrstuvwx-yzab-cdef-ghij-987654321004",
+      "title": "UX/UI designer",
+      "description": "Talented UX/UI designer with a passion for creating intuitive and visually appealing user interfaces.",
+      "company": "Creative Designs Ltd.",
+      "location": "New York, USA",
+      "salary_from": 70000,
+      "salary_to": 100000,
+      "employment_type": "Remote",
+      "application_deadline": "Sat, 01/28/2023",
+      "Workexperience": "3+ Years",
+      "contact": "123-456-789",
+      "job_category": "UX/UI Designer",
+      "is_remote_work": 1,
+      "number_of_opening": 6,
+      "created_at": "Wed, 06/14/2023",
+      "updated_at": "Wed, 06/14/2023"
+    },
+    {
+      "id": "ijklmnop-qrst-uvwx-yzab-987654321002",
+      "title": "graphic designer",
+      "description": "Creative graphic designer with a keen eye for aesthetics and attention to detail.",
+      "company": "Art Studios Ltd.",
+      "location": "New York, USA",
+      "salary_from": 60000,
+      "salary_to": 90000,
+      "employment_type": "Part Time",
+      "application_deadline": "Thu, 09/05/2023",
+      "Work experience": "2+ Years",
+      "contact": "555-666-777",
+      "job_category": "Graphic Designer",
+      "is_remote_work": 1,
+      "number_of_opening": 2,
+      "created_at": "Sat, 11/12/2023",
+      "updated_at": "Sat, 11/12/2023"
+    }
+  ],
+ "contact": [
+    {
+      "id": "09d4",
+      "email": "minhajtapader0@gmail.com",
+      "text": "ai project ta mutamuti balo ace"
+    },
+    {
+      "id": "500d",
+      "email": "minhajtapader0@gmail.com",
+      "text": "yuyut"
+    },
+    {
+      "id": "d71e",
+      "email": "minhajtapader0@gmail.com",
+      "text": "fgd"
+    }
+ ],
+ "users": [
+    {
+      "id": "9429",
+      "username": "minu",
+      "email": "minhajtapader0@gmail.com",
+      "password": "123456qQ"
+    }
+ ]
+ }
